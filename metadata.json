@@ -1,0 +1,6 @@
+{
+  "name": "STIRE Soft - Sistema Tutor Inteligente",
+  "description": "Inicio de sesión para STIRE Soft de la Universidad de Córdoba con modo oscuro minimalista, animaciones fluidas y la guía de identidad visual oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
